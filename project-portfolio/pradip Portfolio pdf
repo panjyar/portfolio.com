@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com/"><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><link href="pradip%20Portfolio%20pdf_files/css2" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com/"><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><link href="pradip%20Portfolio%20pdf_files/css2_002" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="pradip%20Portfolio%20pdf_files/slick.css">
+    <link rel="stylesheet" type="text/css" href="pradip%20Portfolio%20pdf_files/slick.css">
+
+    <link rel="stylesheet" href="pradip%20Portfolio%20pdf_files/22dec.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+        <nav class="flex  items-center justify-between">
+            <div class="alpha">
+            <img src="pradip%20Portfolio%20pdf_files/pradip-logo.png" alt="logo" width="100px">
+        </div>
+            <div class="left flex items-center">
+                <div class="branding">
+                    <img src="pradip%20Portfolio%20pdf_files/logo.svg" alt=""></div>
+                    <div>
+                        <a href="#">Home</a>
+                        <a href="#about">About</a>
+                        <a href="#servise">Services</a>
+                        <a href="#work">Work</a>
+                        <a href="#blog">Blog</a>
+                        
+                    </div>
+                </div>
+            <div class="right">
+                <button class="btn btn-primary">contact</button>
+            </div>
+        </nav>
+        <div class="hero flex items-center justify-between">
+            <div class="left  flex-1 justify-center">
+                <img src="pradip%20Portfolio%20pdf_files/pradip-profile.jpeg" alt="man images">
+            </div>
+            <div class="right flex-1">
+                <h6>Pradip Kumar Panjiyar</h6>
+                <h1>I'm a <span>Programmer</span> </h1>
+                <p>I believe that good software has the power to change 
+the world and make it a better place.I believe that continuous learning 
+and staying up to date with the latest technologies is essential for a 
+good programmer.
+                    </p>
+                    <div>
+                        <button class="download-cv">DOWNLOAD CV</button>
+                    </div>
+            </div>
+        </div>
+    </div>
+    </header>
+    <section id="about" class="about">
+        <div class="container flex items-center">
+            <div class="flex-1">
+                <img class="about-me-img" src="pradip%20Portfolio%20pdf_files/pradip-profile.jpeg" alt="profile images" width="250px"> 
+            </div>
+            
+            <div class="flex-1"><h1>About <span>Me<span><h1>
+                </h1><h3>Hello! i'm Pradip Kumar Panjiyar.</h3>
+                <p>
+                 I am a computer student and purshing B.tech from 
+Central Institute of Technology Kokrajhar,Assam . I’m skilled with C,C++
+ ,HTML,CSS and Java, and I am trying to learn other programming 
+languages, step by step. I try to get the most out of my time at the 
+college, and have some edge once I graduate, which is the primary reason
+ why I seek a part time job with you.</p>
+                 <p>I’m a strong communicator and I take pride in my 
+honesty, too. In university, I led multiple clubs and group projects 
+where I had the chance to build my communication skills including public
+ speaking. And I’m always clear and upfront in my communication. I’m 
+proud of the fact that I’m honest and transparent in my work. I saw on 
+your job description that this position may lead some committees and 
+meetings, so that’s one detail that attracted me to your organization 
+and made me think I’d be able to put my communication skills to good use
+ here.</p>
+            </span></span></h1></div>
+            <div class="social">
+                <a href="#"><img src="pradip%20Portfolio%20pdf_files/facebookicon.jpg" alt="facebook icon" width="35px"></a>
+                <a href="#"><img src="pradip%20Portfolio%20pdf_files/twittericon.jpg" alt="twitter icon" width="35px"></a>
+                <a href="#"><img src="pradip%20Portfolio%20pdf_files/instaicon.jpg" alt="facebook" width="35px"></a>
+                
+                <a href="#"><img src="pradip%20Portfolio%20pdf_files/discod.jpg" alt="discod icon" width="35px"></a>
+            </div>
+           </div>
+    </section>
+    <section id="servise" class="services">
+        <div class="container">
+            <h1 class="section-heading"><span>Our</span>  services</h1>
+            <p>We provide high standar clean website for your business solution</p>
+            <div class="card-wrapper">
+                <div class="card">
+                <img src="pradip%20Portfolio%20pdf_files/brushicon.jpg" alt="brush">
+                <h2>Graphic Design</h2>
+                <p>Graphic design is an interdisciplinary branch of design and of the fine arts</p>
+             </div>
+                <div class="card">
+                    <img src="pradip%20Portfolio%20pdf_files/mediaicon.png" alt="brush">
+                    <h2>Social Media</h2>
+                    <p>Social media refers to the means of interactions 
+among people in which they create, share, and/or exchange information 
+and ideas in virtual communities and networks.</p>
+                 </div>
+                 <div class="card">
+                     <img src="pradip%20Portfolio%20pdf_files/codeicon.png" alt="brush">
+
+                     <h2> Programmers</h2><p>Computer programmers use 
+programming languages to write, test, and maintain code. These essential
+ tech professionals create programs and software that millions of people
+ use every day.Graphic design is an interdisciplinary branch of design 
+and of the fine arts</p>
+                </div>
+                <div class="card">
+                    <img src="pradip%20Portfolio%20pdf_files/desktopicon.jpg" alt="brush">
+                    <h2>Desktop Computer</h2>
+                    <p>A desktop computer is a personal computing device
+ designed to fit on top of a typical office desk. It houses the physical
+ hardware that makes a computer run and connects to input devices such 
+as the monitor, keyboard and mouse users interact with</p>
+                </div>
+                <div class="card">
+                    <img src="pradip%20Portfolio%20pdf_files/iphone.png" alt="brush">
+                    <h2>Smartphone</h2>
+                    <p>A smartphone is a cellular telephone with an 
+integrated computer and other features not originally associated with 
+telephones such as an operating system, web browsing, and the ability to
+ run software applications.</p>
+                </div>
+                 <div class="card">
+                    <img src="pradip%20Portfolio%20pdf_files/ai.png" alt="brush">
+                    <h2>Artificial Intelligence </h2>
+                    <p>Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. </p>
+                 </div>
+            </div>
+        </div>
+    </section>
+    <section id="freelancer" class="freelancer">
+        <h1>I am Available For Freeelancer</h1>
+        <p>I will provide high standard clean website for your business solution</p>
+        <button class="btn btn-primary">DOWNLOAD CV</button>
+    </section>
+    <section class="reviews">
+        <div class="container">
+            <h1 class="section-heading"><span>Our</span> Client</h1>
+            <p>We are proud of our reputation for quality. The fact that we make a difference for our clients is truly satisfying. </p>
+            <div class="slider">
+                <div class="slide">
+                    <img src="pradip%20Portfolio%20pdf_files/lady.png" alt="client about-me-img">
+                    <p>"Let's take most of the money we would've spent 
+on paid advertising and paid marketing and instead of spending it on 
+that, invest it in the customer experience/customer service and then let
+ our customers do the marketing for us through word of mouth."</p>
+                    <span>Tony Hsieh, CEO of Zappos</span>
+                    <div class="slide">
+                        <img src="pradip%20Portfolio%20pdf_files/ceo2.jpeg" alt="client about-me-img">
+                        <p>"It comes down to how your customer experiences the brand – and how that brand makes a person feel."&nbsp;</p>
+                        <span>Alex Allwood, CEO of The Holla Agency</span>
+                    </div>
+                    <div class="slide">
+                        <img src="pradip%20Portfolio%20pdf_files/jeff.jpg" alt="error">
+                        <p>"Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves."</p>
+                        <span>Steve Jobs, Co-Founder and former CEO of Apple</span>
+                    </div>
+                    <div class="slide">
+                        <img src="pradip%20Portfolio%20pdf_files/ceo1.jpeg" alt="client about-me-img">
+                        <p>"The basic of business is to stay as close as
+ possible from your customers, understand their behavior, their 
+preferences, their purchasing patterns, etc."</p>
+                        <span>Indra Nooyi, former CEO of Pepsi Co</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+      
+    </section>
+  <section id="work" class="work">
+    <div class="container">
+        <h1 class="section-heading"><span>My</span> Work</h1>
+        <p>I’m a strong communicator and I take pride in my honesty, 
+too. In university, I led multiple clubs and group projects where I had 
+the chance to build my communication skills including public speaking. 
+And I’m always clear and upfront in my communication. I’m proud of the 
+fact that I’m honest and transparent in my work. I saw on your job 
+description that this position may lead some committees and meetings, so
+ that’s one detail that attracted me to your organization and made me 
+think I’d be able to put my communication skills to good use here.</p>
+        <div class="card-wrapper">
+            <div class="card">
+                <div class="overlay">
+                    <span>Category</span>
+                    <a href="#">Web Devlopment</a>
+                </div>
+                <img src="pradip%20Portfolio%20pdf_files/web-devlopment.jpg" alt="mobile phone">
+            </div>
+            <div class="card">
+                <div class="overlay">
+                    <span>Category</span>
+                    <a href="#">C/C++ Programming Language</a>
+                </div>
+                <img src="pradip%20Portfolio%20pdf_files/candc.jpg" alt="mobile phone">
+            </div>
+            <div class="card">
+                <div class="overlay">
+                    <span>Category</span>
+                    <a href="#">Node. js </a>
+                </div>
+                <img src="pradip%20Portfolio%20pdf_files/node1.png" alt="mobile phone">
+            </div>
+            <div class="card">
+                <div class="overlay">
+                    <span>Category</span>
+                    <a href="#">PHP</a>
+                </div>
+                <img src="pradip%20Portfolio%20pdf_files/php-img.jpeg" alt="mobile phone">
+            </div>
+            <div class="card">
+                <div class="overlay">
+                    <span>Category</span>
+                    <a href="#">Chegg Expert</a>
+                </div>
+                <img src="pradip%20Portfolio%20pdf_files/chegg-img.png" alt="mobile phone">
+            </div>
+            <div class="card">
+                <div class="overlay">
+                    <span>Category</span>
+                    <a href="#">JAVA Programming language</a>
+                </div>
+                <img src="pradip%20Portfolio%20pdf_files/java-img.png" alt="mobile phone">
+            </div>
+            
+        </div>
+    </div>
+  </section>
+  <section id="blog" class="blog">
+     <div class="container"> 
+         <h1 class="section-heading"><span>My </span> Blog</h1>
+         <p>A platform where a writer or a group of writers share their views on an individual subject.</p>
+         <div class="card-wrapper">
+            <div class="card">
+                <div class="img-wrapper">
+                    <img src="pradip%20Portfolio%20pdf_files/article-ph-1.png" alt="article img">
+                </div>
+                <div class="card-content"><a href="#"><h1>Smarthone</h1></a>
+                <span>22 Decenber ,2022</span>
+                <p>The cell phone is one of the coolest, most useful, 
+and convenient electronic devices of all time. It also happens to be one
+ of the most complex technically, not only internally but also because 
+it is part of the largest communications network in the universe, the 
+telephone system.</p>
+                <a href="#">Read More</a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img-wrapper">
+                    <img src="pradip%20Portfolio%20pdf_files/article-ph-1.png" alt="article img">
+                </div>
+                <div class="card-content"><a href="#"><h1>Smarthone</h1></a>
+                <span>22 Decenber ,2022</span>
+                <p>The cell phone is one of the coolest, most useful, 
+and convenient electronic devices of all time. It also happens to be one
+ of the most complex technically, not only internally but also because 
+it is part of the largest communications network in the universe, the 
+telephone system.</p>
+                <a href="#">Read More</a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img-wrapper">
+                    <img src="pradip%20Portfolio%20pdf_files/article-ph-1.png" alt="article img">
+                </div>
+                <div class="card-content"><a href="#"><h1>Smarthone</h1></a>
+                <span>22 Decenber ,2022</span>
+                <p>The cell phone is one of the coolest, most useful, 
+and convenient electronic devices of all time. It also happens to be one
+ of the most complex technically, not only internally but also because 
+it is part of the largest communications network in the universe, the 
+telephone system.</p>
+                <a href="#">Read More</a>
+                </div>&gt;
+            </div>
+
+         </div>
+     </div>   
+  </section>
+  <footer>
+    
+        <img class="footer-logo" src="pradip%20Portfolio%20pdf_files/pradip-logo.png" alt="" x="" width="75px">
+    <div class="footer-social">
+      
+        <a href=""> <img src="pradip%20Portfolio%20pdf_files/facebookicon.jpg" alt="" width="20px">  </a>
+        <a href=""></a><img src="pradip%20Portfolio%20pdf_files/twittericon.jpg" alt="" width="20px">  
+        <a href=""></a><img src="pradip%20Portfolio%20pdf_files/GitHub-logo.png" alt="" width="20px">  
+        <a href=""></a><img src="pradip%20Portfolio%20pdf_files/discod.jpg" alt="" width="20px&gt;">  
+        <a href=""></a><img src="pradip%20Portfolio%20pdf_files/linked-logo.jpg" alt="" width="20px">  
+    </div>
+    <div class="copyright">
+        Copyright 2022 © ‘C and ℗ ‘P pradip ,All Right Reversved
+    </div>
+</footer>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
